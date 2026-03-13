@@ -55,6 +55,5 @@ __pypackages__/
 # uv environments
 .venv/
 
-# Argos translation models
-*.argosmodel
+# translation models
 models/
