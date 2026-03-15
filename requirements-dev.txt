@@ -1,4 +1,2 @@
 ruff==0.15.6
-torch==2.10.0
-transformers==5.3.0
-sacremoses==0.1.1
+isort==8.0.1
